@@ -1,0 +1,50 @@
+public class medal {
+    private String country;
+    private int gold,silver,bronze = 0;
+
+    public medal(){
+
+    }
+
+    public medal(String country){
+        this.country = country;
+    }
+
+    public String getCountry(){
+        return country;
+    }
+    
+    public void setCountry(String c){
+        c = country;
+    }
+
+    public int getGoldMedal(){
+        return gold;
+    }
+    public void addGoldMedal(){
+        gold +=1;
+    }
+
+    public int getSilverMedal(){
+        return silver;
+    }
+    public void addSilverMedal(){
+        silver += 1;
+    }
+
+    public int getBronzeMedal(){
+        return bronze;
+    }
+    public void addBronzeMedal(){
+        bronze += 1;
+    }
+    
+
+    @Override
+    public String toString() {
+       
+        return country + "  Gold:" + gold + "  Silver:" + silver + "  Bronze:" + bronze;
+    }
+
+    
+}

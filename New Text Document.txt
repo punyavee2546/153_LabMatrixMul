@@ -1,0 +1,20 @@
+Q1 -The average of all the movie ratings-7.99
+Q2 -Filter movies with rating > 8.5-
+Forrest Gump(DRAMA, 8.8)
+Inception(THRILLER, 8.8)
+Seven(THRILLER, 8.7)
+The Dark Knight(THRILLER, 9.0)
+Star Wars(ACTION, 8.7)
+Q3 -The top rated movie-	[The Dark Knight(THRILLER, 9.0), Forrest Gump(DRAMA, 8.8), Inception(THRILLER, 8.8), Seven(THRILLER, 8.7), Star Wars(ACTION, 8.7), Green Mile(DRAMA, 8.5), The Shinning(HORROR, 8.5), Die Hard(ACTION, 8.3), A Beautiful Mind(DRAMA, 8.2), The Avengers(ACTION, 8.2), The Exorcist(HORROR, 8.0), Casino Royale(ACTION, 8.0), The Notebook(ROMANTIC, 7.9), The Game(THRILLER, 7.8), The Titanic(ROMANTIC, 7.7), Notting Hill(ROMANTIC, 7.0), The Cabin in the Woods(HORROR, 7.0), Thor(ACTION, 7.0), Pretty Woman(ROMANTIC, 6.9), Insidious(HORROR, 6.8)]
+Q4 -Find movie with the lowest rating- 	Insidious(HORROR, 6.8)
+Q5 -List of action movies, sorted by name -
+[Thor(ACTION, 7.0), The Avengers(ACTION, 8.2), Star Wars(ACTION, 8.7), Die Hard(ACTION, 8.3), Casino Royale(ACTION, 8.0)]
+Q6 -Top 3 romantic movies-
+[The Notebook(ROMANTIC, 7.9), The Titanic(ROMANTIC, 7.7), Notting Hill(ROMANTIC, 7.0)]
+Q7 -List of horror movie names-
+The Exorcist
+The Shinning
+The Cabin in the Woods
+Insidious
+Q8 -List of movies by Genre
+{THRILLER=[Inception(THRILLER, 8.8), The Game(THRILLER, 7.8), Seven(THRILLER, 8.7), The Dark Knight(THRILLER, 9.0)], HORROR=[The Exorcist(HORROR, 8.0), The Shinning(HORROR, 8.5), The Cabin in the Woods(HORROR, 7.0), Insidious(HORROR, 6.8)], ACTION=[The Avengers(ACTION, 8.2), Die Hard(ACTION, 8.3), Casino Royale(ACTION, 8.0), Star Wars(ACTION, 8.7), Thor(ACTION, 7.0)], ROMANTIC=[The Notebook(ROMANTIC, 7.9), The Titanic(ROMANTIC, 7.7), Pretty Woman(ROMANTIC, 6.9), Notting Hill(ROMANTIC, 7.0)], DRAMA=[Green Mile(DRAMA, 8.5), Forrest Gump(DRAMA, 8.8), A Beautiful Mind(DRAMA, 8.2)]}
